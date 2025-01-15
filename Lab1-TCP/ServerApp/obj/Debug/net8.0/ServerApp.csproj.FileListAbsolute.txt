@@ -1,0 +1,14 @@
+D:\Lab1-TCP\ServerApp\obj\Debug\net8.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab1-TCP\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfoInputs.cache
+D:\Lab1-TCP\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfo.cs
+D:\Lab1-TCP\ServerApp\obj\Debug\net8.0\ServerApp.csproj.CoreCompileInputs.cache
+D:\Lab1-TCP\ServerApp\bin\Debug\net8.0\ServerApp.exe
+D:\Lab1-TCP\ServerApp\bin\Debug\net8.0\ServerApp.deps.json
+D:\Lab1-TCP\ServerApp\bin\Debug\net8.0\ServerApp.runtimeconfig.json
+D:\Lab1-TCP\ServerApp\bin\Debug\net8.0\ServerApp.dll
+D:\Lab1-TCP\ServerApp\bin\Debug\net8.0\ServerApp.pdb
+D:\Lab1-TCP\ServerApp\obj\Debug\net8.0\ServerApp.dll
+D:\Lab1-TCP\ServerApp\obj\Debug\net8.0\refint\ServerApp.dll
+D:\Lab1-TCP\ServerApp\obj\Debug\net8.0\ServerApp.pdb
+D:\Lab1-TCP\ServerApp\obj\Debug\net8.0\ServerApp.genruntimeconfig.cache
+D:\Lab1-TCP\ServerApp\obj\Debug\net8.0\ref\ServerApp.dll
